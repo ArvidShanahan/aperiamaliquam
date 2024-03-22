@@ -1,0 +1,19 @@
+{
+  "name": "aperiamaliquam",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "KamrenHeathcote",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArvidShanahan/aperiamaliquam.git"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@hashgraph/sdk": "^2.12.1",
+    "prettier": "^2.6.2",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typedoc": "^0.22.15",
+    "typescript": "^4.6.3"
+  }
+}
